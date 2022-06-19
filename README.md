@@ -1,3 +1,1 @@
-# NewViewModelTest
-ViewModel+LiveData的基本使用
 未完待续......
